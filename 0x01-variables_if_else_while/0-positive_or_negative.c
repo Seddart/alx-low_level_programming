@@ -4,7 +4,7 @@
 /**
  *main - Determines if the number is positive, negative or zero
  *
- *Reutun: Always 0 (success)
+ *Reutun: Always 0(success)
  */
 int main (void)
 {
